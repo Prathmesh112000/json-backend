@@ -1,0 +1,11 @@
+{
+    "posts": [
+      {
+        "firstname": "Prathmesh",
+        "lastname": "Nerle",
+        "email": "nerleprathmeshanil@gmail.com",
+        "password": "prathmesh",
+        "id": 1
+      }
+    ]
+  }
